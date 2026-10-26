@@ -18,7 +18,7 @@ LAB RECORD
 
 Student Name: Uditi Soni
 
-Enrollment Number: 240177
+Enrollment Number: 240170
 
 <br>
 
